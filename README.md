@@ -1,0 +1,1 @@
+# NHK-style-Seismic-Intensity-Distribution-Map-Generator
